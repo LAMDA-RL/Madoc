@@ -1,0 +1,83 @@
+gravity:
+  idx: 2
+  max: 0
+  min: -30
+  GT: -9.81
+
+body_mass1:
+  idx: 1
+  max: 5
+  min: 3
+  GT: 3.53
+
+body_mass2:
+  idx: 2
+  max: 5
+  min: 3
+  GT: 3.93
+
+body_mass3:
+  idx: 3
+  max: 4
+  min: 2
+  GT: 2.71
+
+body_mass4:
+  idx: 4
+  max: 4
+  min: 2
+  GT: 2.94
+
+body_mass5:
+  idx: 5
+  max: 5
+  min: 3
+  GT: 3.93
+
+body_mass6:
+  idx: 6
+  max: 4
+  min: 2
+  GT: 2.71
+
+body_mass7:
+  idx: 7
+  max: 4
+  min: 2
+  GT: 2.94
+
+dof_damping3:
+  idx: 3
+  max: 0.5
+  min: 0
+  GT: 0.1
+
+dof_damping4:
+  idx: 4
+  max: 0.5
+  min: 0
+  GT: 0.1
+
+dof_damping5:
+  idx: 5
+  max: 0.5
+  min: 0
+  GT: 0.1
+
+dof_damping6:
+  idx: 6
+  max: 0.5
+  min: 0
+  GT: 0.1
+
+dof_damping7:
+  idx: 7
+  max: 0.5
+  min: 0
+  GT: 0.1
+
+dof_damping8:
+  idx: 8
+  max: 0.5
+  min: 0
+  GT: 0.1
