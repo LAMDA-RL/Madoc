@@ -2,8 +2,6 @@
 
 This is the implementation of the NeurIPS 2024 paper "Multi-Agent Domain Calibration with a Handful of Offline Data". 
 
-## Installation instructions
-
 ### Install Python environment
 
 Install Python environment with conda:
@@ -40,6 +38,6 @@ export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/lib/nvidia
 
 You can run the script `download_datasets.sh` to download all datasets.
 
-## Run experiments
+### Run experiments
 
 You can run the script `run_tasks.sh` to perform all experiments.
